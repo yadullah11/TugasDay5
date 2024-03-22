@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppMobストア</string>
+    <string name="nama_hint">名前</string>
+    <string name="tipe_pelanggan">顧客タイプ</string>
+    <string name="reguler">通常</string>
+    <string name="silver">シルバー</string>
+    <string name="gold">ゴールド</string>
+    <string name="kode_barang_hint">商品コード</string>
+    <string name="jumlah_barang_hint">数量</string>
+    <string name="proses">処理</string>
+    <string name="selamat_datang">ようこそ</string>
+    <string name="transaksi_hari_ini_label">今日の取引</string>
+    <string name="kode_barang_label">商品コード：</string>
+    <string name="nama_barang_label">商品名：</string>
+    <string name="harga_label">価格：</string>
+    <string name="total_harga_label">合計金額：</string>
+    <string name="diskon_harga_label">割引価格：</string>
+    <string name="diskon_member_label">会員割引：</string>
+    <string name="jumlah_bayar_label">合計支払い：</string>
+    <string name="terimakasih_label">こちらでお買い物いただきありがとうございます！</string>
+    <string name="share_button_label">共有</string>
+</resources>

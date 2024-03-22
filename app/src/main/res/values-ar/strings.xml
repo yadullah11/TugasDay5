@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">متجر AppMob</string>
+    <string name="nama_hint">الاسم</string>
+    <string name="tipe_pelanggan">نوع العميل</string>
+    <string name="reguler">عادي</string>
+    <string name="silver">فضي</string>
+    <string name="gold">ذهبي</string>
+    <string name="kode_barang_hint">رمز المنتج</string>
+    <string name="jumlah_barang_hint">الكمية</string>
+    <string name="proses">عملية</string>
+    <string name="selamat_datang">مرحبًا</string>
+    <string name="transaksi_hari_ini_label">معاملات اليوم</string>
+    <string name="kode_barang_label">رمز المنتج:</string>
+    <string name="nama_barang_label">اسم المنتج:</string>
+    <string name="harga_label">السعر:</string>
+    <string name="total_harga_label">السعر الإجمالي:</string>
+    <string name="diskon_harga_label">خصم السعر:</string>
+    <string name="diskon_member_label">خصم العضو:</string>
+    <string name="jumlah_bayar_label">الدفع الإجمالي:</string>
+    <string name="terimakasih_label">شكراً لتسوقك هنا!</string>
+    <string name="share_button_label">مشاركة</string>
+</resources>

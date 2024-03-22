@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AppMob Store</string>
+    <string name="nama_hint">Nama</string>
+    <string name="tipe_pelanggan">Tipe Pelanggan</string>
+    <string name="reguler">Reguler</string>
+    <string name="silver">Silver</string>
+    <string name="gold">Gold</string>
+    <string name="kode_barang_hint">Kode Barang</string>
+    <string name="jumlah_barang_hint">Jumlah Barang</string>
+    <string name="proses">Proses</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="transaksi_hari_ini_label">Transaksi Hari Ini</string>
+    <string name="kode_barang_label">Kode Barang :</string>
+    <string name="nama_barang_label">Nama Barang :</string>
+    <string name="harga_label">Harga :</string>
+    <string name="total_harga_label">Total Harga :</string>
+    <string name="diskon_harga_label">Discount Harga :</string>
+    <string name="diskon_member_label">Discount Member :</string>
+    <string name="jumlah_bayar_label">Jumlah Bayar :</string>
+    <string name="terimakasih_label">Terimakasih telah berbelanja disini!</string>
+    <string name="share_button_label">Share</string>
+</resources>
